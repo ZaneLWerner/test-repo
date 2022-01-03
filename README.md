@@ -1,5 +1,7 @@
 # test-repo
 test repo for c2c class
 
-
-Updated readme
+# Introduction
+This is a repository created by *Zane*
+## Usage
+Run this command to execute the application: `python filename.py`
